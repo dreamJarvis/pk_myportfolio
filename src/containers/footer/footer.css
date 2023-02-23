@@ -1,0 +1,35 @@
+.gradient__text {
+    margin-bottom: 4rem;
+}
+
+.portfolio__footer-form_container {
+    border: solid;
+    border-color: gray;
+    border-width: 5px;
+    padding: 2rem;
+    max-width: fit-content;
+}
+
+.portfolio__footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.portfolio__footer-container p {
+    font-family: var(--font-family);
+    font-size: 32px;
+    font-weight: 800;
+    padding: 3rem;
+    /* color: var(--gradient-text); */
+}
+
+@media screen and (max-width: 1050px) {
+    .portfolio__footer-container {
+        flex-direction: column;
+    }
+
+    .portfolio__footer-form_container {
+        /* margin-bottom: 4rem; */
+    }
+}
