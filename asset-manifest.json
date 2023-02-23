@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pk_myportfolio/static/css/main.2cbb9a3f.css",
+    "main.js": "/pk_myportfolio/static/js/main.ec0b75a1.js",
+    "static/media/iot.webp": "/pk_myportfolio/static/media/iot.652a3c20ad13ab696ce9.webp",
+    "static/media/frontend.jpg": "/pk_myportfolio/static/media/frontend.02dd6f9e285135ee723f.jpg",
+    "static/media/profilee.jpg": "/pk_myportfolio/static/media/profilee.15a99481517c3dab5393.jpg",
+    "static/media/android.jpg": "/pk_myportfolio/static/media/android.e421d58564c9a4492683.jpg",
+    "static/media/facial.webp": "/pk_myportfolio/static/media/facial.e747c543c6bbde7ec5ca.webp",
+    "static/media/logo.svg": "/pk_myportfolio/static/media/logo.944fcf2004a575819defb5ae02a56f63.svg",
+    "index.html": "/pk_myportfolio/index.html",
+    "main.2cbb9a3f.css.map": "/pk_myportfolio/static/css/main.2cbb9a3f.css.map",
+    "main.ec0b75a1.js.map": "/pk_myportfolio/static/js/main.ec0b75a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cbb9a3f.css",
+    "static/js/main.ec0b75a1.js"
+  ]
+}
